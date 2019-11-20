@@ -1,0 +1,22 @@
+{
+  "name": "advanced_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgan-sam/advanced_git_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morgan-sam/advanced_git_exercise/issues"
+  },
+  "homepage": "https://github.com/morgan-sam/advanced_git_exercise#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
