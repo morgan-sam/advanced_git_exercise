@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/morgan-sam/advanced_git_exercise#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
